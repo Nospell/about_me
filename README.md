@@ -1,2 +1,3 @@
-# about_me
-A little about me
+# Bruno Machado
+
+## Hello! My name is Bruno Machado 
